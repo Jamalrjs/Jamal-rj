@@ -3,7 +3,7 @@
  Roll No.: RK18TM
  Ques. No. Assigned: 8 , 19 
  Email Address: Jamalrjs12@gmail.com 
- GitHub Link: https://github.com/Jamalrjs?tab=projects 
+ GitHub Link: https://github.com/Jamalrjs/Jamal-rj 
 
 Explain the problem in terms of operating system concept (200 w max)
   Question no : 8
@@ -335,4 +335,4 @@ Bill turn for student s5 having 1 items
 
 
 8 .  Have you made minimum 5 revisions of solution on GitHub?
-      GitHub Link: https://github.com/Jamalrjs?tab=projects 
+      GitHub Link: https://github.com/Jamalrjs/Jamal-rj
